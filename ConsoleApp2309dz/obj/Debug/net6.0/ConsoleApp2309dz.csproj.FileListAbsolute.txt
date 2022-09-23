@@ -1,0 +1,15 @@
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\bin\Debug\net6.0\ConsoleApp2309dz.exe
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\bin\Debug\net6.0\ConsoleApp2309dz.deps.json
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\bin\Debug\net6.0\ConsoleApp2309dz.runtimeconfig.json
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\bin\Debug\net6.0\ConsoleApp2309dz.dll
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\bin\Debug\net6.0\ref\ConsoleApp2309dz.dll
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\bin\Debug\net6.0\ConsoleApp2309dz.pdb
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\obj\Debug\net6.0\ConsoleApp2309dz.csproj.AssemblyReference.cache
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\obj\Debug\net6.0\ConsoleApp2309dz.GeneratedMSBuildEditorConfig.editorconfig
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\obj\Debug\net6.0\ConsoleApp2309dz.AssemblyInfoInputs.cache
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\obj\Debug\net6.0\ConsoleApp2309dz.AssemblyInfo.cs
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\obj\Debug\net6.0\ConsoleApp2309dz.csproj.CoreCompileInputs.cache
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\obj\Debug\net6.0\ConsoleApp2309dz.dll
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\obj\Debug\net6.0\ref\ConsoleApp2309dz.dll
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\obj\Debug\net6.0\ConsoleApp2309dz.pdb
+D:\C++_projects\ConsoleApp2309dz\ConsoleApp2309dz\obj\Debug\net6.0\ConsoleApp2309dz.genruntimeconfig.cache
