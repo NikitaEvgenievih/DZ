@@ -34,3 +34,4 @@ foreach (File item in files)
         Console.WriteLine(item.Name);
     }
 }
+global::System.Console.WriteLine("START");
